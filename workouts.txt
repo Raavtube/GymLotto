@@ -1,0 +1,58 @@
+B@@Individual Bicep Curls (22.5 LB)
+B@@Targeted Bicep Curls (25 LB)
+B@@Bicep Curl over Chest (25 LB)
+B@@Hammer Curls (25 LB)
+B@@Cable Curl (45 LB)
+B@@EZ-Curl Bar (35 LB)
+B@@Dumbbell Curl on Incline Bench (25 LB)
+B@@Spider Curl (25 LB)
+B@@Slow Negative Bicep Curl Bar (35 LB)
+B@@Incline Dumbbell Curl (25 LB)
+
+T@@Archers (45 LB)
+T@@Tricep Overhead Raises (45 LB)
+T@@Tricep Extensions (Cable Machine) (25 LB)
+T@@Tricep U Rope Extensions (55 LB)
+T@@Tricep Cross Over (25 LB)
+
+S@@Shoulder Pressdowns (2x45 LB -> 4x45 LB)
+S@@Shoulder Press with Dumbbells (42.5 LB -> 55 LB)
+S@@EZ-Curl Front Raises (35 LB)
+S@@Standing Dumbbell Flys (2x20 LB)
+S@@Standing Dumbbell Press (40 LB)
+S@@U Rope Standing Face PULL (65 LB)
+S@@Shoulder/Delt Raises (Lean Forward) (25 LB)
+
+L@@Squats (2x45 LB -> 4x45 LB)
+L@@Leg Press (4x45 LB -> 6x45 LB -> 8x45 LB)
+L@@Leg Pressdowns on Assisted Machine (100 LB -> 120 LB)
+L@@Leg Extensions (120 LB -> 140 LB)
+L@@Lying Leg Curls (50 LB -> 70 LB)
+L@@Sitting Leg Squats (2x45 LB -> 4x45 LB)
+L@@Cart Pulls (2x45 LB -> 4x45 LB)
+L@@Calf Raises (1x45 LB -> 2x45 LB)
+L@@Calf Raises on Leg Press Machine (4x45) LB -> (6x45) LB)
+
+Ba@@Back Rows with Dumbbells (40 LB -> 50 LB)
+Ba@@Back Rows with Machine (120 LB -> 140 LB)
+Ba@@Back Rows with Cable Machine U Rope (65 LB -> 75 LB)
+Ba@@Back Rows with Cable Machine V Bar  (65 LB -> 75 LB)
+Ba@@JPG Lat Pull Down (65 LB -> 75 LB)
+Ba@@Vertical Pull Down Sitting Up Straight (65 LB -> 75 LB)
+Ba@@Vertical Pull Down Leaning Back (65 LB -> 75 LB)
+Ba@@Cable Machine U Rope Pull Down (65 LB -> 75 LB)
+
+
+
+C@@Chest Press with Dumbbells (40 LB -> 50 LB)
+C@@Chest Press with Machine (60 LB -> 80 LB)
+C@@Bench Press with Bar (2x45 LB -> 2x45+2x10 LB)
+C@@Chest Flies with Dumbbells (2x20 LB)
+C@@Chest Press with Dumbbells (2x40 LB)
+C@@Chest Overhead Lowers with Dumbbells (45 LB)
+C@@Single Arm Chest Crossovers (40 LB)
+
+A@@Abdominal Crunches
+A@@Russian Twists
+A@@Decline Situps
+A@@Decline Situps with Plate (35 LB)
